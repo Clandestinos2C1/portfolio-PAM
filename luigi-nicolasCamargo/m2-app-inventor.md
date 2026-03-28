@@ -1,5 +1,5 @@
 ### ETEC Vasco Antônio Venchiarutti
-### Desenvolvimento de Sistemas)
+### Desenvolvimento de Sistemas
 ### 2C1
 ### Autores:
 Luigi Pozzani de Souza
@@ -20,4 +20,9 @@ Foi adicionado a possibilidade de trocar o idioma do "Hello World" por meio de u
 
 ### Print da tela do Design:
 
+![Tela](images/ex01screen.png)
 
+
+### Print da tela dos Blocos:
+
+![Blocos](images/ex01blocks.png)
