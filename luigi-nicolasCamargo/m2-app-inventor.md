@@ -39,7 +39,7 @@ Ele funciona usando um bloco de "Pintura", que identifica onde o usuário arrast
 
 ### O que foi melhorado em relação ao exemplo da apostila?
 
-Eu adicionei 4 cores a mais (laranja, roxo, rosa, marrom e preto), organizei as cores com base no círculo cromático, e tive que incluir uma row a mais (organização horizontal).
+Foram adicionadas 4 cores a mais (laranja, roxo, rosa, marrom e preto), organizei as cores com base no círculo cromático, e tive que incluir uma row a mais (organização horizontal).
 
 ### Print da tela do Design:
 
@@ -57,6 +57,10 @@ Eu adicionei 4 cores a mais (laranja, roxo, rosa, marrom e preto), organizei as 
 
 Esse aplicativo tem o objetivo de ao clicar na imagem do liquidificador (que na verdade é um botão), um som tocar e o dispositivo vibrar.  
 Ele funciona usando um botão, um som (media) e a vibração, que funciona a partir do som.
+
+### O que foi melhorado em relação ao exemplo da apostila?
+
+Foi adicionado duas variáveis e dois clocks para fazer a width do botão aumentar e diminuir baseado no trigger do relógio,
 
 ### Print da tela do Design:
 
