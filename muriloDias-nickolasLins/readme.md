@@ -27,7 +27,7 @@ O aplicativo permite que o usuário desenhe na tela usando diferentes cores.
 ### 📲 Interface do Aplicativo
 ![Tela do Segundo App](imagens/3.png)
 ### 🧠 Lógica de Programação (Blocos)
-[Blocos do Segundo App](imagens/4.png)
+![Blocos do Segundo App](imagens/4.png)
 
 ---
 
