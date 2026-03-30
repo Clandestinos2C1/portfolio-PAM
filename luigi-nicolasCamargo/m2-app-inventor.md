@@ -80,12 +80,11 @@ Nesse aplicativo vamos utilizar o recurso da câmera do celular para tirar uma f
 
 ### Print da tela do Design:
 
-<img width="247" height="456" alt="Captura de tela2 2026-03-30 170745" src="https://github.com/user-attachments/assets/d0474326-7744-4e66-8bb2-8a999511a543" />
+![Tela do exercício 04](images/ex04screen.png)
 
 ### Print da tela dos Blocos:
 
-<img width="457" height="238" alt="Captura de tela 2026-03-30 170719" src="https://github.com/user-attachments/assets/20ccf1bd-e0bc-4bd8-bee9-70f9bd6d5d5e" />
-
+![Blocos do exercício 04](images/ex04blocks.png)
 ---
 
 # Projeto 5 - Quinto Aplicativo (pg. 69)
@@ -96,12 +95,11 @@ Nessa aplicação, a ideia é inserir telas adicionais na tela principal (Screen
 
 ### Print da tela do Design:
 
-<img width="227" height="422" alt="Captura de tela3 2026-03-30 171347" src="https://github.com/user-attachments/assets/25738ad1-ea06-42a3-abb8-19d520776198" />
-
+![Tela do exercício 05](images/ex05screen.png)
 
 ### Print da tela dos Blocos:
 
-<img width="536" height="61" alt="Captura de tela4 2026-03-30 171409" src="https://github.com/user-attachments/assets/557a6ea8-e412-411d-bf34-94bb6afb9633" />
+![Blocos do exercício 05](images/ex05blocks.png)
 
 ---
 
@@ -113,12 +111,12 @@ Nesse projeto será deselvolvido um programa semelhante a primeira aplicação (
 
 ### Print da tela do Design:
 
-<img width="232" height="464" alt="Captura de tela6 2026-03-30 171717" src="https://github.com/user-attachments/assets/a80c3c96-b0e2-4eca-b05b-1d033290efcf" />
+![Tela do exercício 06](images/ex06screen.png)
 
 
 ### Print da tela dos Blocos:
 
-<img width="394" height="117" alt="Captura de tela5 2026-03-30 171649" src="https://github.com/user-attachments/assets/13e06b16-551d-479f-85c5-979b297d599d" />
+![Blocos do exercício 06](images/ex06blocks.png)
 
 
 
