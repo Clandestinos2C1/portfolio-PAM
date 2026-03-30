@@ -71,3 +71,21 @@ Foi adicionado duas variáveis e dois clocks para fazer a width do botão aument
 ![Blocos do exercício 03](images/ex03blocks.png)
 
 ---
+
+# Projeto 4 - Quarto Aplicativo (pg. )
+
+### Descrição
+
+
+### O que foi melhorado do exemplo  da  apostila?
+
+
+### Print da tela do Design
+
+![tela do exercício 4] (<img width="247" height="456" alt="Captura de tela2 2026-03-30 170745" src="https://github.com/user-attachments/assets/d0474326-7744-4e66-8bb2-8a999511a543" />)
+
+### Print da tela dos Blocos
+
+![blocos do exercício 4](<img width="457" height="238" alt="Captura de tela 2026-03-30 170719" src="https://github.com/user-attachments/assets/20ccf1bd-e0bc-4bd8-bee9-70f9bd6d5d5e" />)
+
+
