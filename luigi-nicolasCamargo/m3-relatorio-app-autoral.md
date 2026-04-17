@@ -6,7 +6,8 @@ Luigi Pozzani de Souza
 Nicolas Camargo Costa Ceccato
 
 ---
-# Projeto Oriente Médio
+# 📱 Projeto
+# Título: MédioOriente (Guerras Atuais do Oriente Médio)
 
 ## Descrição
 
@@ -18,3 +19,63 @@ Abordaremos tela por tela, começando pela Screen 1 (Home):
 ## Screen 1
 
 ### Design:
+
+![Tela do Home](images/autoralHomeScreen.png)
+
+### Blocos:
+
+![Blocos do Home](images/autoralHomeBlocks.png)
+
+<br>
+<br>
+<br>
+
+## ScreenIsrael
+
+### Design: 
+
+![Primeiro Print de Israel - Palestina](images/autoralPalestinaScreen1.png)
+
+![Segundo Print de Israel - Palestina](images/autoralPalestinaScreen2.png)
+
+![Terceiro Print de Israel - Palestina](images/autoralPalestinaScreen3.png)
+
+![Quarto Print de Israel - Palestina](images/autoralPalestinaScreen4.png)
+
+![Quinto Print de Israel - Palestina](images/autoralPalestinaScreen5.png)
+
+![Sexto Print de Israel - Palestina](images/autoralPalestinaScreen6.png)
+
+![Sétimo Print de Israel - Palestina](images/autoralPalestinaScreen7.png)
+
+<br>
+<br>
+<br>
+
+## ScreenIra
+
+### Design:
+
+![Primeiro Print de Irã - EUA](images/autoraliranScreen1.png)
+
+![Segundo Print de Irã - EUA](images/autoraliranScreen2.png)
+
+![Terceiro Print de Irã - EUA](images/autoraliranScreen3.png)
+
+![Quarto Print de Irã - EUA](images/autoraliranScreen4.png)
+
+![Quinto Print de Irã - EUA](images/autoraliranScreen5.png)
+
+### Blocos:
+
+![Blocos do Irã - EUA](images/autoraliranBlocks.png)
+
+<br>
+<br>
+<br>
+
+## ScreenMapa
+
+### Design:
+
+![Tela do Mapa](images/autoralMapaScreen.png)
