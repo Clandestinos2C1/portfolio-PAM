@@ -86,3 +86,22 @@ O aplicativo permite que o usuário digite seu nome:
 ### 🧠 Lógica de Programação (Blocos)
 ![Blocos do Sexto App](imagens/15.png)
 ---
+
+## Aplicativo autoral
+
+ O aplicativo é um questionário sobre a guerra no irã
+
+ -O aplicativo conta quantas vezes você errou e te dá um feedback
+ -Como nova funcionalidade nós usamos uma barra de progresso
+ ### 📲 Interface do Aplicativo
+![Resultado perfeito](imagens/16.png)
+![Resultado ruim](imagens/17.png)
+![Resultado regular](imagens/18.png)
+![Resultado bom](imagens/19.png)
+![Tela perguntas](imagens/20.png)
+![Tela Inicial](imagens/21.png)
+### 🧠 Lógica de Programação (Blocos)
+![Blocos](imagens/blocos2.png)
+![Blocos](imagens/blocos3.png)
+![Blocos](imagens/blocos4.png)
+![Blocos](imagens/blocos1.png)
