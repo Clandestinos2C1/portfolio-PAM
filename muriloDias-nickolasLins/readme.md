@@ -105,3 +105,5 @@ O aplicativo permite que o usuário digite seu nome:
 ![Blocos](imagens/blocos3.png)
 ![Blocos](imagens/blocos4.png)
 ![Blocos](imagens/blocos1.png)
+![Blocos](imagens/trocadetela1.png)
+![Blocos](imagens/trocadetela2.png)
